@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web前端个人简历
 
 #### 介绍
@@ -84,3 +85,6 @@ export default {
 ![首页](https://images.gitee.com/uploads/images/2020/0722/194832_8b05a480_5641265.png "1.png")![About Me](https://images.gitee.com/uploads/images/2020/0722/194851_9fc98b82_5641265.png "2.png")![My Services](https://images.gitee.com/uploads/images/2020/0722/194909_f35f4738_5641265.png "3.png")![My Mastering](https://images.gitee.com/uploads/images/2020/0722/195119_1e54b805_5641265.png "4.png")![My Production](https://images.gitee.com/uploads/images/2020/0722/194926_268983f1_5641265.png "5.png")![结尾页](https://images.gitee.com/uploads/images/2020/0722/194947_d623e840_5641265.png "6.png")
 
 
+=======
+# blog
+>>>>>>> 3de5f1eab54dd627bd4bf1613a663cf85dac7210
